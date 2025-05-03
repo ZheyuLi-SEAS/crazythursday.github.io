@@ -215,7 +215,7 @@ Final version (adding IMU & SD Card, update device logic)
 
 ## 5. Codebase
 
-- [Code folder](./Code/)
+- [Code folder](crazythursday.github.io/Code/)
 
 - [Node-RED dashboard code](http://172.191.68.14:1880)
 
