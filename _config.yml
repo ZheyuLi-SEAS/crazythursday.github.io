@@ -2,4 +2,4 @@ title: PandoraBox
 description: A phone locker that can lock your phone.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-merlot
+theme: jekyll-theme-hacker
