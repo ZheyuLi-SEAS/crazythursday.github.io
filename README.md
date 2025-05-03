@@ -207,7 +207,7 @@ Initial version & final version:
 
 Final version (adding IMU & SD Card, update device logic)
 
-![alt text](Images/SYStemBlockDiagram_ver2.png)
+![alt text](Images/SystemBlockDiagram_ver2.png)
 
 - Power Block Diagram
 
